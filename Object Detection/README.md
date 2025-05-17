@@ -1,9 +1,7 @@
 ## Object Detection using Arduino 
-How it works:
+**How it works:**
 1. The ultrasonic sensor measures distance.
-
 2. If the object is closer than 30 cm, the buzzer sounds and the LED turns on.
-
 3. Otherwise, both are turned off.
 
 
