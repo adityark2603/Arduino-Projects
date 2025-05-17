@@ -1,2 +1,2 @@
 # Arduino-Projects
-Random arduino projects I've done 
+Random Arduino projects I've done using TinkerCAD and Arduino IDE tools
